@@ -1,0 +1,160 @@
+2022-07-04 17:18:36.811333: Application launched 
+2022-07-04 17:18:37.151457: Software version: 0.1.10 
+2022-07-04 17:18:37.382164: Waiting on network connection... 
+2022-07-04 17:18:37.584468: Attempting to connect... 
+2022-07-04 17:18:37.609479: Attempting to connect... 
+2022-07-04 17:18:37.671544: Attempting to connect... 
+2022-07-04 17:18:37.692077: Attempting to connect... 
+2022-07-04 17:18:37.932095: Network connected 
+2022-07-04 17:18:38.135098: Start processing 
+2022-07-04 17:18:38.209486: Channel 1 is muted, Channel 2 is muted, Channel 3 is muted, Channel 4 is muted, Channel 5 is muted, Channel 6 is muted, Channel 7 is muted, Channel 8 is muted, Channel 9 is muted, Channel 10 is muted, Channel 11 is muted, Channel 12 is muted, Channel 13 is muted, Channel 14 is muted, Channel 15 is muted, Channel 16 is muted, Channel 17 is muted, Channel 18 is muted, Channel 19 is muted, Channel 20 is muted, Channel 21 is muted, Channel 22 is muted, Channel 23 is muted, Channel 24 is muted, Channel 25 is muted, Channel 26 is muted, Channel 27 is muted, Channel 28 is muted, Channel 29 is muted, Channel 30 is muted, Channel 31 is muted, Channel 32 is muted 
+Setting DSP coefficients: [[ 228  883  345 ...  932  850  891]
+ [ 459  298  129 ...   33  215  779]
+ [ 557  425  651 ...  999  431  199]
+ ...
+ [ 900  331  768 ...  350  398  946]
+ [1006   99  208 ...   39  340  741]
+ [ 622  277  110 ...  343  379  770]]
+2022-07-04 17:18:38.450439: Configuration has been applied 
+2022-07-04 17:18:38.947529: Closing application 
+2022-07-04 17:18:38.987478: Application launched 
+2022-07-04 17:18:39.311347: Software version: 0.1.10 
+2022-07-04 17:18:39.577890: Waiting on network connection... 
+2022-07-04 17:18:39.735378: Attempting to connect... 
+2022-07-04 17:18:39.829458: Attempting to connect... 
+2022-07-04 17:18:39.943794: Network connected 
+2022-07-04 17:18:40.065570: Start processing 
+2022-07-04 17:18:40.193010: Channel 1 is muted, Channel 2 is muted, Channel 3 is muted, Channel 4 is muted, Channel 5 is muted, Channel 6 is muted, Channel 7 is muted, Channel 8 is muted, Channel 9 is muted, Channel 10 is muted, Channel 11 is muted, Channel 12 is muted, Channel 13 is muted, Channel 14 is muted, Channel 15 is muted, Channel 16 is muted, Channel 17 is muted, Channel 18 is muted, Channel 19 is muted, Channel 20 is muted, Channel 21 is muted, Channel 22 is muted, Channel 23 is muted, Channel 24 is muted, Channel 25 is muted, Channel 26 is muted, Channel 27 is muted, Channel 28 is muted, Channel 29 is muted, Channel 30 is muted, Channel 31 is muted, Channel 32 is muted 
+Setting DSP coefficients: [[ 255  136  945 ...   50  189  108]
+ [ 934  151  369 ...   65 1006  649]
+ [ 403  334  779 ...  936  720  771]
+ ...
+ [ 526  419  276 ...  231  518  124]
+ [ 982  930  712 ...  604  908  460]
+ [  90  703  448 ...  659  154  866]]
+2022-07-04 17:18:40.535013: Configuration has been applied 
+2022-07-04 17:18:40.877967: Closing application 
+2022-07-04 17:18:40.927071: Application launched 
+2022-07-04 17:18:40.959552: Software version: 0.1.10 
+2022-07-04 17:18:41.001771: Waiting on network connection... 
+2022-07-04 17:18:41.335456: Attempting to connect... 
+2022-07-04 17:18:41.659735: Attempting to connect... 
+2022-07-04 17:18:42.142969: Network connected 
+2022-07-04 17:18:42.183444: Start processing 
+2022-07-04 17:18:42.242951: Channel 1 is muted, Channel 2 is muted, Channel 3 is muted, Channel 4 is muted, Channel 5 is muted, Channel 6 is muted, Channel 7 is muted, Channel 8 is muted, Channel 9 is muted, Channel 10 is muted, Channel 11 is muted, Channel 12 is muted, Channel 13 is muted, Channel 14 is muted, Channel 15 is muted, Channel 16 is muted, Channel 17 is muted, Channel 18 is muted, Channel 19 is muted, Channel 20 is muted, Channel 21 is muted, Channel 22 is muted, Channel 23 is muted, Channel 24 is muted, Channel 25 is muted, Channel 26 is muted, Channel 27 is muted, Channel 28 is muted, Channel 29 is muted, Channel 30 is muted, Channel 31 is muted, Channel 32 is muted 
+Setting DSP coefficients: [[227 987 606 ... 625 644 550]
+ [743 604 349 ...  28 893 888]
+ [303 418 281 ... 761 390 569]
+ ...
+ [520 570 443 ... 456 739 526]
+ [771 122 475 ... 771 313 574]
+ [673 581  35 ... 789 359 933]]
+2022-07-04 17:18:42.408471: Warning: Something is not ideal but nothing critical, process can continue 
+2022-07-04 17:18:42.694448: Configuration has been applied 
+2022-07-04 17:18:42.956938: Closing application 
+2022-07-04 17:18:43.080444: Application launched 
+2022-07-04 17:18:43.313930: Software version: 0.1.10 
+2022-07-04 17:18:43.334383: Waiting on network connection... 
+2022-07-04 17:18:43.402460: Attempting to connect... 
+2022-07-04 17:18:43.820248: Attempting to connect... 
+2022-07-04 17:18:43.920511: Attempting to connect... 
+2022-07-04 17:18:44.254458: Attempting to connect... 
+2022-07-04 17:18:44.295363: Network connected 
+2022-07-04 17:18:44.476244: Start processing 
+2022-07-04 17:18:44.819345: Channel 1 is muted, Channel 2 is muted, Channel 3 is muted, Channel 4 is muted, Channel 5 is muted, Channel 6 is muted, Channel 7 is muted, Channel 8 is muted, Channel 9 is muted, Channel 10 is muted, Channel 11 is muted, Channel 12 is muted, Channel 13 is muted, Channel 14 is muted, Channel 15 is muted, Channel 16 is muted, Channel 17 is muted, Channel 18 is muted, Channel 19 is muted, Channel 20 is muted, Channel 21 is muted, Channel 22 is muted, Channel 23 is muted, Channel 24 is muted, Channel 25 is muted, Channel 26 is muted, Channel 27 is muted, Channel 28 is muted, Channel 29 is muted, Channel 30 is muted, Channel 31 is muted, Channel 32 is muted 
+Setting DSP coefficients: [[ 847  937  583 ...  763  846  931]
+ [ 738  195  505 ...  986  307  180]
+ [ 639  442  265 ...  705  951  526]
+ ...
+ [ 474  601  512 ...   84 1006  772]
+ [ 552  318  996 ...  453  446  318]
+ [ 744  143   14 ...  670  439  890]]
+2022-07-04 17:18:45.011200: Configuration has been applied 
+2022-07-04 17:18:45.112299: Closing application 
+2022-07-04 17:18:45.574374: Application launched 
+2022-07-04 17:18:45.958449: Software version: 0.1.10 
+2022-07-04 17:18:46.077431: Waiting on network connection... 
+2022-07-04 17:18:46.214940: Attempting to connect... 
+2022-07-04 17:18:46.325381: Attempting to connect... 
+2022-07-04 17:18:46.713477: Attempting to connect... 
+2022-07-04 17:18:46.859441: Network connected 
+2022-07-04 17:18:47.012230: Start processing 
+2022-07-04 17:18:47.241423: Channel 1 is muted, Channel 2 is muted, Channel 3 is muted, Channel 4 is muted, Channel 5 is muted, Channel 6 is muted, Channel 7 is muted, Channel 8 is muted, Channel 9 is muted, Channel 10 is muted, Channel 11 is muted, Channel 12 is muted, Channel 13 is muted, Channel 14 is muted, Channel 15 is muted, Channel 16 is muted, Channel 17 is muted, Channel 18 is muted, Channel 19 is muted, Channel 20 is muted, Channel 21 is muted, Channel 22 is muted, Channel 23 is muted, Channel 24 is muted, Channel 25 is muted, Channel 26 is muted, Channel 27 is muted, Channel 28 is muted, Channel 29 is muted, Channel 30 is muted, Channel 31 is muted, Channel 32 is muted 
+Setting DSP coefficients: [[476 405 131 ... 649  94 958]
+ [161  27 449 ... 633 796 914]
+ [499 863 391 ... 144  99 716]
+ ...
+ [679  64 902 ...  63 746  31]
+ [ 53 406 556 ... 926  32 310]
+ [990 901 641 ...  16 915 565]]
+2022-07-04 17:18:47.587757: Warning: Something is not ideal but nothing critical, process can continue 
+2022-07-04 17:18:47.904444: Error: Invalid data... Configuration cannot be applied 
+2022-07-04 17:18:48.033478: Closing application 
+2022-07-04 17:18:48.192941: Application launched 
+2022-07-04 17:18:48.392940: Software version: 0.1.10 
+2022-07-04 17:18:48.834436: Waiting on network connection... 
+2022-07-04 17:18:49.150643: Attempting to connect... 
+2022-07-04 17:18:49.402798: Attempting to connect... 
+2022-07-04 17:18:49.627685: Network connected 
+2022-07-04 17:18:49.714424: Start processing 
+2022-07-04 17:18:49.992951: Channel 1 is muted, Channel 2 is muted, Channel 3 is muted, Channel 4 is muted, Channel 5 is muted, Channel 6 is muted, Channel 7 is muted, Channel 8 is muted, Channel 9 is muted, Channel 10 is muted, Channel 11 is muted, Channel 12 is muted, Channel 13 is muted, Channel 14 is muted, Channel 15 is muted, Channel 16 is muted, Channel 17 is muted, Channel 18 is muted, Channel 19 is muted, Channel 20 is muted, Channel 21 is muted, Channel 22 is muted, Channel 23 is muted, Channel 24 is muted, Channel 25 is muted, Channel 26 is muted, Channel 27 is muted, Channel 28 is muted, Channel 29 is muted, Channel 30 is muted, Channel 31 is muted, Channel 32 is muted 
+Setting DSP coefficients: [[ 334  683  215 ...  357  362  475]
+ [ 582  904  650 ...   54  114  144]
+ [ 705  368  417 ...  245  719  776]
+ ...
+ [ 323  835  468 ...  921  639  889]
+ [ 273  482  263 ...  181  112  403]
+ [1010   82  693 ...  700  252  461]]
+2022-07-04 17:18:50.207387: Error: Invalid data... Configuration cannot be applied 
+2022-07-04 17:18:50.208387: Error: Application exit due to critical failure
+2022-07-04 17:18:50.626205: Application launched 
+2022-07-04 17:18:50.850417: Software version: 0.1.10 
+2022-07-04 17:18:51.122407: Waiting on network connection... 
+2022-07-04 17:18:51.253962: Attempting to connect... 
+2022-07-04 17:18:51.339850: Attempting to connect... 
+2022-07-04 17:18:51.575371: Network connected 
+2022-07-04 17:18:52.044436: Start processing 
+2022-07-04 17:18:52.103092: Channel 1 is muted, Channel 2 is muted, Channel 3 is muted, Channel 4 is muted, Channel 5 is muted, Channel 6 is muted, Channel 7 is muted, Channel 8 is muted, Channel 9 is muted, Channel 10 is muted, Channel 11 is muted, Channel 12 is muted, Channel 13 is muted, Channel 14 is muted, Channel 15 is muted, Channel 16 is muted, Channel 17 is muted, Channel 18 is muted, Channel 19 is muted, Channel 20 is muted, Channel 21 is muted, Channel 22 is muted, Channel 23 is muted, Channel 24 is muted, Channel 25 is muted, Channel 26 is muted, Channel 27 is muted, Channel 28 is muted, Channel 29 is muted, Channel 30 is muted, Channel 31 is muted, Channel 32 is muted 
+Setting DSP coefficients: [[ 981   19  413 ...  930 1017  810]
+ [ 732  823  663 ...  470  680  698]
+ [ 263  256  447 ...  616  314  283]
+ ...
+ [ 760  401  228 ...  614  723  265]
+ [ 471  685  144 ...  664  526  905]
+ [ 227  603  623 ...  627  661  339]]
+2022-07-04 17:18:52.226170: Warning: Something is not ideal but nothing critical, process can continue 
+2022-07-04 17:18:52.316379: Configuration has been applied 
+2022-07-04 17:18:52.609343: Closing application 
+2022-07-04 17:18:53.006291: Application launched 
+2022-07-04 17:18:53.143400: Software version: 0.1.10 
+2022-07-04 17:18:53.508416: Waiting on network connection... 
+2022-07-04 17:18:53.608306: Attempting to connect... 
+2022-07-04 17:18:53.767601: Attempting to connect... 
+2022-07-04 17:18:54.019419: Network connected 
+2022-07-04 17:18:54.087707: Start processing 
+2022-07-04 17:18:54.442891: Channel 1 is muted, Channel 2 is muted, Channel 3 is muted, Channel 4 is muted, Channel 5 is muted, Channel 6 is muted, Channel 7 is muted, Channel 8 is muted, Channel 9 is muted, Channel 10 is muted, Channel 11 is muted, Channel 12 is muted, Channel 13 is muted, Channel 14 is muted, Channel 15 is muted, Channel 16 is muted, Channel 17 is muted, Channel 18 is muted, Channel 19 is muted, Channel 20 is muted, Channel 21 is muted, Channel 22 is muted, Channel 23 is muted, Channel 24 is muted, Channel 25 is muted, Channel 26 is muted, Channel 27 is muted, Channel 28 is muted, Channel 29 is muted, Channel 30 is muted, Channel 31 is muted, Channel 32 is muted 
+Setting DSP coefficients: [[ 800  826 1001 ...  779  275  868]
+ [ 735  676  828 ...  685  455  686]
+ [ 752  323  839 ...  901  719  872]
+ ...
+ [ 628  476   74 ...  476   34  101]
+ [ 677  821  873 ...  938  220  929]
+ [1004  340  518 ...  366  561  508]]
+2022-07-04 17:18:54.777375: Configuration has been applied 
+2022-07-04 17:18:55.192921: Closing application 
+2022-07-04 17:18:55.532002: Application launched 
+2022-07-04 17:18:55.763306: Software version: 0.1.10 
+2022-07-04 17:18:55.915405: Waiting on network connection... 
+2022-07-04 17:18:56.317092: Attempting to connect... 
+2022-07-04 17:18:56.347316: Network connected 
+2022-07-04 17:18:56.580972: Start processing 
+2022-07-04 17:18:56.628278: Channel 1 is muted, Channel 2 is muted, Channel 3 is muted, Channel 4 is muted, Channel 5 is muted, Channel 6 is muted, Channel 7 is muted, Channel 8 is muted, Channel 9 is muted, Channel 10 is muted, Channel 11 is muted, Channel 12 is muted, Channel 13 is muted, Channel 14 is muted, Channel 15 is muted, Channel 16 is muted, Channel 17 is muted, Channel 18 is muted, Channel 19 is muted, Channel 20 is muted, Channel 21 is muted, Channel 22 is muted, Channel 23 is muted, Channel 24 is muted, Channel 25 is muted, Channel 26 is muted, Channel 27 is muted, Channel 28 is muted, Channel 29 is muted, Channel 30 is muted, Channel 31 is muted, Channel 32 is muted 
+Setting DSP coefficients: [[416 987 396 ... 535 991 492]
+ [686 989 884 ... 966 819  86]
+ [460  39 898 ... 755 826 617]
+ ...
+ [863 948 476 ... 634 736 798]
+ [ 53 701 342 ...  54 828 880]
+ [678 485 955 ... 138 891 508]]
+2022-07-04 17:18:56.897226: Configuration has been applied 
+2022-07-04 17:18:57.137400: Closing application 
